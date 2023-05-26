@@ -1,0 +1,127 @@
+.step1-container {
+  margin-bottom: 20px;
+}
+
+.step1-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.step1-form input[type="text"],
+.step1-form input[type="email"],
+.step1-form input[type="tel"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.step1-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.step1-form button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.step2-container {
+  margin-bottom: 20px;
+}
+
+.step2-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.step2-form input[type="text"],
+.step2-form input[type="date"],
+.step2-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.step2-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.step2-form button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.step3-container {
+  margin-bottom: 20px;
+}
+
+.step3-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.step3-form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.step3-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.step3-form button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.welcome-container {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.welcome-message {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.navbar-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-item {
+  margin-right: 10px;
+}
+
+.navbar-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.navbar-link:hover {
+  background-color: #555;
+}
